@@ -1,0 +1,22 @@
+{
+  "name": "javascript-asynchronous-poc",
+  "version": "1.0.0",
+  "description": "A set of programs for talking about async js including callbacks, promises and async await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodaProjects/javascript-asynchronous-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodaProjects/javascript-asynchronous-poc/issues"
+  },
+  "homepage": "https://github.com/GodaProjects/javascript-asynchronous-poc#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
